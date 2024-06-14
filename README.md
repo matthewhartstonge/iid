@@ -19,9 +19,10 @@ go get github.com/matthewhartstonge/iid
 package main
 
 import (
+	"context"
 	"fmt"
 	"os"
-	
+
 	"github.com/matthewhartstonge/iid"
 )
 
@@ -30,9 +31,13 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	
-	client := iid.New("com.example.app", jsonCreds)
-	res, err := client.BatchImport(ctx.Background(), []string{"MY_APNS_TOKEN"})
+
+	client, err := iid.New("com.example.app", jsonCreds, iid.WithSandbox())
+	if err != nil {
+		panic(err)
+	}
+
+	res, err := client.BatchImport(context.Background(), []string{"MY_APNS_TOKEN"})
 	if err != nil {
 		panic(err)
 	}

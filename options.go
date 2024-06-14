@@ -1,4 +1,4 @@
-package client
+package iid
 
 type Option func(*Client)
 
