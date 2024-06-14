@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: "gomod"
+    allow:
+      - dependency-type: direct
+    directory: "/"
+    groups:
+      default:
+        patterns:
+          - "*"
+    schedule:
+      interval: "weekly"
+    target-branch: "main"
