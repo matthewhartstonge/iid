@@ -1,4 +1,4 @@
-package client
+package iid
 
 const (
 	maxTokens      = 100
