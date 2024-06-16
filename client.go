@@ -57,10 +57,10 @@ type BatchImportResponse struct {
 	Results []*BatchImportResults `json:"results"`
 }
 
-type BatchImportResults []struct {
+type BatchImportResults struct {
 	ApnsToken         string `json:"apns_token"`
 	Status            string `json:"status"`
-	RegistrationToken string `json:"registration_token,omitempty"`
+	RegistrationToken string `json:"registration_token"`
 }
 
 // BatchImport imports APNs tokens returning an
