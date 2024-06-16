@@ -47,3 +47,18 @@ func main() {
 	}
 }
 ```
+
+## Firebase Credentials
+
+You will require using Firebase service account credentials which can be 
+downloaded from the Google Cloud Console as a JSON encoded file.
+
+You will need to:
+
+- Choose your Firebase Project from the Project dropdown selector (top left).
+- Select and click on `IAM & Admin` > `Service accounts` from the side menu.
+- Click on your `Firebase Admin SDK Service Agent` account within the presented table.
+- Click on the 'keys' tab.
+- Click 'Add Key' > 'Create New Key'.
+- Choose key type `JSON`, and click 'create'.
+- Download and use the JSON file as your service account credentials.
