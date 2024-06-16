@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/matthewhartstonge/iid/compare/v1.2.0...v1.2.1) (2024-06-16)
+
+
+### Bug Fixes
+
+* **BatchImportResults:** removes array on struct. ([#9](https://github.com/matthewhartstonge/iid/issues/9)) ([92cb966](https://github.com/matthewhartstonge/iid/commit/92cb96649a15a592299224dde0333507afb323b0))
+
 ## [1.2.0](https://github.com/matthewhartstonge/iid/compare/v1.1.0...v1.2.0) (2024-06-16)
 
 
