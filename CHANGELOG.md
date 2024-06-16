@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/matthewhartstonge/iid/compare/v1.1.0...v1.2.0) (2024-06-16)
+
+
+### Features
+
+* adds MIT license. ([#6](https://github.com/matthewhartstonge/iid/issues/6)) ([b615f4d](https://github.com/matthewhartstonge/iid/commit/b615f4d8b45f99ee2253c7575482d240a69f6308))
+
 ## [1.1.0](https://github.com/matthewhartstonge/iid/compare/v1.0.0...v1.1.0) (2024-06-14)
 
 
