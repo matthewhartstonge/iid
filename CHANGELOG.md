@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/matthewhartstonge/iid/compare/v1.2.1...v1.3.0) (2025-03-09)
+
+
+### Features
+
+* **deps:** upgrades to `go@1.23.0` and `golang.org/x/oauth2@v0.28.0`. ([06bbaf8](https://github.com/matthewhartstonge/iid/commit/06bbaf85cd736eb36eb7373738fdbdb6792fdd4a))
+
 ## [1.2.1](https://github.com/matthewhartstonge/iid/compare/v1.2.0...v1.2.1) (2024-06-16)
 
 
