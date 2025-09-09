@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/matthewhartstonge/iid/compare/v1.3.0...v1.4.0) (2025-09-08)
+
+
+### Features
+
+* **deps:** upgrades to `go@1.24` and `golang.org/x/oauth2@0.31.0` ([#20](https://github.com/matthewhartstonge/iid/issues/20)) ([7049868](https://github.com/matthewhartstonge/iid/commit/7049868ff17c27da0ae716cdefca4d9adb65c342))
+
 ## [1.3.0](https://github.com/matthewhartstonge/iid/compare/v1.2.1...v1.3.0) (2025-03-09)
 
 
