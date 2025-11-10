@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/matthewhartstonge/iid/compare/v1.4.1...v1.4.2) (2025-11-10)
+
+
+### Bug Fixes
+
+* **deps:** bump golang.org/x/oauth2 in the default group ([#24](https://github.com/matthewhartstonge/iid/issues/24)) ([c3f5c75](https://github.com/matthewhartstonge/iid/commit/c3f5c7589c9016ce064ba5d0684bcd2a4a89d0cc))
+
 ## [1.4.1](https://github.com/matthewhartstonge/iid/compare/v1.4.0...v1.4.1) (2025-10-20)
 
 
