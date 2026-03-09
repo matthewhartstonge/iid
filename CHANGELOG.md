@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0](https://github.com/matthewhartstonge/iid/compare/v1.4.2...v1.5.0) (2026-03-09)
+
+
+### Features
+
+* **build:** Upgrades to `go@v1.25`
+* **deps:** bump golang.org/x/oauth2 from 0.35.0 to 0.36.0 in the default group ([#28](https://github.com/matthewhartstonge/iid/issues/28)) ([919108e](https://github.com/matthewhartstonge/iid/commit/919108ea1595447b1562185f54f4382fb75a490d))
+
 ## [1.4.2](https://github.com/matthewhartstonge/iid/compare/v1.4.1...v1.4.2) (2025-11-10)
 
 
