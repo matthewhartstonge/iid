@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/matthewhartstonge/iid/compare/v1.6.0...v1.6.1) (2026-11-20)
+
+
+### Bug Fixes
+
+* **deps:** bump golang.org/x/oauth2 ([#32](https://github.com/matthewhartstonge/iid/issues/32)) ([8057f9b](https://github.com/matthewhartstonge/iid/commit/8057f9bc878a93df851cea91ec7ec49305d7ac8c))
+
 ## [1.6.0](https://github.com/matthewhartstonge/iid/compare/v1.5.0...v1.6.0) (2026-09-15)
 
 
